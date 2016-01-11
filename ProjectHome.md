@@ -1,0 +1,1 @@
+Maimonide is an RDF Triple Store, SPARQL endpoint, and inference engine written atop the Erlang OTP platform.
